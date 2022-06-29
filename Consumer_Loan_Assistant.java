@@ -400,7 +400,6 @@ public class ConsumerLoanAssistant extends JFrame {
                 } else if (c == '.' && !hasDecimal) {
                     hasDecimal = true;
                 } else {
-                    // invalid character found
                     valid = false;
                 }
             }
@@ -411,4 +410,4 @@ public class ConsumerLoanAssistant extends JFrame {
         }
         return (valid);
     }
-} //End of main
+}
