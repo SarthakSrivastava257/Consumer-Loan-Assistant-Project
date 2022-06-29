@@ -1,5 +1,5 @@
 # Consumer-Loan-Assistant-Project
->>*This project helps us to handle on consumer debt. 
+>>This project helps us to handle on consumer debt. 
 >>
 >>The Consumer Loan Assistant Project has been built to compute payments and loan terms where balance and interest informations are given. 
 >>
